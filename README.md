@@ -54,4 +54,6 @@ python3 src/experiments/ahp_weights.py
 
 ## License
 
-See the accompanying paper for terms of use.
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for the full text.
+
+    Copyright 2026 Capital One Services, LLC
